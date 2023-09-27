@@ -1,5 +1,7 @@
 <h1>Aula SetTimeout setInterval</h1>
 
+<h2>setTimeout</h2>
+
 O setTimeout() é um método JavaScript que chama uma função após alguns milissegundos.
 
 
@@ -40,7 +42,7 @@ Esse é o setTimeout na prática, em vez de chamarmos uma função de fora, uma 
 
     Aparecer uma mensagem na tela após um período de tempo:
     <a href="https://codesandbox.io/s/magical-haze-6w4m3q?file=/src/Mensagem.js">Aparecer mensagem</a>
-    
+
     Fazer uma contagem após um período de tempo
     <a href="https://codesandbox.io/s/magical-haze-6w4m3q?file=/src/App.js">Contagem</a>
     
@@ -50,4 +52,6 @@ Esse é o setTimeout na prática, em vez de chamarmos uma função de fora, uma 
 
 
 
- 
+ <h2>setInterval</h2>
+
+ atualizando...
