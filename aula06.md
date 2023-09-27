@@ -21,10 +21,10 @@ Os milissegundos na verdade são segundos só que elevados na base 1000, o que i
 
 que 
 
-1000 milissegundos = 1 segundos
-2000 milissegundos = 2 segundos
-3000 milissegundos = 3 segundos
-4000 milissegundos = 4 segundos
+1000 milissegundos = 1 segundos<br/>
+2000 milissegundos = 2 segundos<br/>
+3000 milissegundos = 3 segundos<br/>
+4000 milissegundos = 4 segundos<br/>
 5000 milissegundos = 5 segundos e assim sucessivamente...
 
 Sintaxe do setTimeOut 
