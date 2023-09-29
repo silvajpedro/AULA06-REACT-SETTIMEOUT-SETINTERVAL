@@ -74,3 +74,7 @@ Exemplo prático(carrosel de imagens): <a href="https://www.mercadolivre.com.br/
 - Exemplos para mostrar durante a aula
 
 Contador automático (sem clearInterval): <a href="https://codesandbox.io/s/magical-haze-6w4m3q?file=/src/Contador.js">Contador</a>
+
+Contador automático (com clearInterval): <a href="https://codesandbox.io/s/lively-platform-9v7q98?file=/src/App.js">Contador 2</a>
+
+Transição de imagens (com clearInterval e operador ternário): <a href="https://codesandbox.io/s/aulas-forked-y6jtcs?file=/src/App.js">Transição de imagens</a>
